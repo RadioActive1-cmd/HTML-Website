@@ -23,4 +23,6 @@ This is a basic website.
 Torin
 
 ### 50-Word Description
-This website is about????
+This is a practice website that I am going to learn all sorts of different types of code. This website is just a practice site so I can see how a website is built. I am very excited to learn all this new information.
+
+### 50-Word
